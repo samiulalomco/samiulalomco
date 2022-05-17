@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samiulalomco
-- 👀 I’m interested Coding
+- 👀 I’m interested in Coding.
 - 🌱 I’m currently learning How to use Github
 - 💞️ I’m looking to collaborate on different project
 - 📫 You can reach me mailing at samiulalomco@gmail.com
